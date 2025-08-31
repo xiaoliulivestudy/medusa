@@ -7,8 +7,9 @@ require (
 	github.com/ethereum/go-ethereum v1.11.1
 	github.com/fxamacker/cbor v1.5.1
 	github.com/google/uuid v1.3.0
+	github.com/pkg/errors v0.9.1
 	github.com/spf13/cobra v1.7.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.11.1
 	golang.org/x/crypto v0.8.0
 	golang.org/x/exp v0.0.0-20230206171751-46f607a40771
 	golang.org/x/net v0.9.0
@@ -44,7 +45,6 @@ require (
 	github.com/mattn/go-runewidth v0.0.14 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
-	github.com/pkg/errors v0.9.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/prometheus/client_golang v1.14.0 // indirect
 	github.com/prometheus/client_model v0.3.0 // indirect
